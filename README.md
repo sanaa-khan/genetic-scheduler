@@ -34,3 +34,14 @@ Output data are classroom and starting time for each exam along with course code
 - Output will be a chromosome which satisfies all hard constraints and soft constraints at least three. (as much as you can)
 - You have to display a list of all hard and soft constraints which are fulfilled in the output.
 - Don’t forget to show fitness values at each iteration.
+
+## Credits
+This project was done with equal contribution from my group partner [Hassan Shahzad](https://github.com/HxnDev) and I.
+
+## Contact Me
+<p align="center">
+	<a href="mailto:sanakahnn@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/sanaa-khan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sana-khan-95a9771b3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
